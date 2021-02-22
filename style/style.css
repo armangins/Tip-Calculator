@@ -1,0 +1,63 @@
+.container {
+
+    background-color: rgb(255, 248, 248);
+    width: 350px;
+    height: 494px;
+
+    border-radius: 15px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10%;
+}
+
+
+.inputs {
+    text-align: center;
+    margin: 25px;
+}
+
+.title {
+
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(37, 37, 36);
+    height: 10%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.buttonBox {
+    text-align: center;
+
+}
+
+.button {
+    color: white;
+    background-color: brown;
+    border: none;
+    border-radius: 15px;
+    width: 50%;
+    height: 40px;
+}
+
+.box {
+
+    margin: 25px;
+}
+
+html {
+    background-color: brown;
+    font-family: fantasy;
+} 
+
+.res {
+    text-align: center;
+    margin: 20px;
+   
+}
+
+.error {
+    color: crimson;
+}
